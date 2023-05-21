@@ -18,11 +18,12 @@
   <a href="#setup">Setup</a> 
 </p>
 
-
+## About this Project
+This is a Google Docs clone, a web-based document editor that allows users to create, edit, and collaborate on documents in real-time. It is built using React and Tailwind CSS, providing a modern and responsive user interface.
+---
 ![Text Editor Screenshot](https://github.com/daru12/readme/assets/66141703/0cff8208-96db-419f-9138-fa0892dc8130)
 
 ---
-
 
 ## Demo
 Here is a working live demo [here](https://darbarvali-docs.web.app/)  
@@ -47,8 +48,11 @@ Here is a working live demo [here](https://darbarvali-docs.web.app/)
 
 ## Setup
 
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
-Then run `npm start` to start the application locally
+- Clone the repository to your local machine.
+- Install the required dependencies by running the command: npm install.
+- Create a Firebase project and set up the necessary configurations. Refer to the Firebase documentation for detailed instructions.
+- Start the development server by running the command: npm start.
+- Access the Google Docs clone in your web browser at http://localhost:3000 (or a different port if specified).
 ---
 
 
