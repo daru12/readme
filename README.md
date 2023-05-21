@@ -6,6 +6,9 @@
   <h3 align="center">Google Docs Clone</h3>
 <p>
    
+       <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
