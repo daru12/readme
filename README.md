@@ -15,7 +15,7 @@
   <a href="#demo">Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
-  <a href="#setup">Setup</a> •
+  <a href="#setup">Setup</a> 
 </p>
 
 
@@ -23,12 +23,9 @@
 
 ---
 
-![Home Screenshot](public/screenshots/home.PNG?raw=true "Home Screenshot")
-
----
 
 ## Demo
-Here is a working live demo [here](https://google-docs-clone-martstech.vercel.app/)  
+Here is a working live demo [here](https://darbarvali-docs.web.app/)  
 
 ---
 
