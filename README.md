@@ -16,8 +16,6 @@
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
   <a href="#setup">Setup</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
 </p>
 
 ![Text Editor Screenshot](public/screenshots/editor.PNG?raw=true "Text Editor Screenshot")
