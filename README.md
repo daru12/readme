@@ -18,7 +18,8 @@
   <a href="#setup">Setup</a> •
 </p>
 
-![Text Editor Screenshot](public/screenshots/editor.PNG?raw=true "Text Editor Screenshot")
+
+![Text Editor Screenshot](https://github.com/daru12/readme/assets/66141703/0cff8208-96db-419f-9138-fa0892dc8130)
 
 ---
 
