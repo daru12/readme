@@ -5,7 +5,9 @@
 <div align="center"
   <h3 align="center">Google Docs Clone</h3>
     <p align="center">
-    An awesome README template to jumpstart your projects!
+    This is a Google Docs clone, a web-based document editor that allows users to create, edit, and collaborate on documents in real-time. It is designed to mimic the functionality and user interface of Google Docs, providing a similar experience for document editing and collaboration.
+
+
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
